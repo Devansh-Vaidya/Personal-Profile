@@ -1,0 +1,45 @@
+body {
+    background-color: #0E0B16;
+    color: #88d9ff;
+    text-align: center;
+    font-size: larger;
+}
+
+table.browse {
+    font-size: 20pt;
+    width: 100%;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    top: 0;
+    border-bottom: 5px solid #A239CA;
+    border-spacing: 0;
+
+}
+
+a {
+    text-decoration: none;
+    color: #E7DFDD;
+}
+
+th.browse {
+    background-color: #A239CA;
+    font-weight: bold;
+    width: 16%;
+
+}
+
+td.browse {
+    border: 3px solid #0E0B16;
+    background-color: #4717F6;
+    width: 16%;
+}
+
+.contTable {
+    text-align: left;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
